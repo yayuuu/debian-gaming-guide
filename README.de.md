@@ -1,4 +1,13 @@
 # Debian Gaming - Anleitung
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](README.pl.md)
+[![zh](https://img.shields.io/badge/lang-zh-red.svg)](README.zh.md)
+[![es](https://img.shields.io/badge/lang-es-red.svg)](README.es.md)
+[![hi](https://img.shields.io/badge/lang-hi-red.svg)](README.hi.md)
+[![pt](https://img.shields.io/badge/lang-pt-red.svg)](README.pt.md)
+[![ru](https://img.shields.io/badge/lang-ru-red.svg)](README.ru.md)
+[![fr](https://img.shields.io/badge/lang-fr-red.svg)](README.fr.md)
+[![ja](https://img.shields.io/badge/lang-ja-red.svg)](README.ja.md)
 ## Schritt 1 - Installation
 1. Lade das Festplatten-Image herunter: https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-13.0.0-amd64-netinst.iso
 2. Erstelle ein bootfähiges USB-Laufwerk. Du kannst Programme wie Rufus oder Etcher verwenden. Auf einigen älteren Plattformen kann es vorkommen, dass das System auch nach dem Erstellen eines bootfähigen USB-Laufwerks mit einer dieser Anwendungen nicht startet. Als letzten Ausweg kannst du unetbootin (Linux) verwenden.
