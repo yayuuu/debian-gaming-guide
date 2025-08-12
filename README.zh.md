@@ -1,4 +1,13 @@
 # Debian 游戏 - 指南
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](README.pl.md)
+[![es](https://img.shields.io/badge/lang-es-red.svg)](README.es.md)
+[![hi](https://img.shields.io/badge/lang-hi-red.svg)](README.hi.md)
+[![pt](https://img.shields.io/badge/lang-pt-red.svg)](README.pt.md)
+[![ru](https://img.shields.io/badge/lang-ru-red.svg)](README.ru.md)
+[![de](https://img.shields.io/badge/lang-de-red.svg)](README.de.md)
+[![fr](https://img.shields.io/badge/lang-fr-red.svg)](README.fr.md)
+[![ja](https://img.shields.io/badge/lang-ja-red.svg)](README.ja.md)
 ## 步骤 1 - 安装
 1. 下载磁盘映像: https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-13.0.0-amd64-netinst.iso
 2. 创建可启动的 USB 驱动器。你可以使用 Rufus 或 Etcher 等应用程序。在一些较旧的平台上，即使使用这些应用程序创建了可启动 USB，系统仍可能无法启动。作为最后的手段，你可以使用 unetbootin (Linux)。
