@@ -1,4 +1,13 @@
 # Juegos en Debian - Guía
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](README.pl.md)
+[![zh](https://img.shields.io/badge/lang-zh-red.svg)](README.zh.md)
+[![hi](https://img.shields.io/badge/lang-hi-red.svg)](README.hi.md)
+[![pt](https://img.shields.io/badge/lang-pt-red.svg)](README.pt.md)
+[![ru](https://img.shields.io/badge/lang-ru-red.svg)](README.ru.md)
+[![de](https://img.shields.io/badge/lang-de-red.svg)](README.de.md)
+[![fr](https://img.shields.io/badge/lang-fr-red.svg)](README.fr.md)
+[![ja](https://img.shields.io/badge/lang-ja-red.svg)](README.ja.md)
 ## Paso 1 - Instalación
 1. Descarga la imagen del disco: https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-13.0.0-amd64-netinst.iso
 2. Crea una unidad USB de arranque. Puedes usar aplicaciones como Rufus o Etcher. En algunas plataformas más antiguas, incluso después de crear un USB de arranque con una de estas aplicaciones, el sistema puede no arrancar. Como último recurso, puedes usar unetbootin (Linux).
