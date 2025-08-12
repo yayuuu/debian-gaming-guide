@@ -1,4 +1,13 @@
 # डेबियन गेमिंग - गाइड
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](README.pl.md)
+[![zh](https://img.shields.io/badge/lang-zh-red.svg)](README.zh.md)
+[![es](https://img.shields.io/badge/lang-es-red.svg)](README.es.md)
+[![pt](https://img.shields.io/badge/lang-pt-red.svg)](README.pt.md)
+[![ru](https://img.shields.io/badge/lang-ru-red.svg)](README.ru.md)
+[![de](https://img.shields.io/badge/lang-de-red.svg)](README.de.md)
+[![fr](https://img.shields.io/badge/lang-fr-red.svg)](README.fr.md)
+[![ja](https://img.shields.io/badge/lang-ja-red.svg)](README.ja.md)
 ## चरण 1 - इंस्टॉलेशन
 1. डिस्क इमेज डाउनलोड करें: https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-13.0.0-amd64-netinst.iso
 2. एक बूटेबल USB ड्राइव बनाएं। आप Rufus या Etcher जैसे एप्लिकेशन का उपयोग कर सकते हैं। कुछ पुराने प्लेटफॉर्म पर, इन एप्लिकेशन से बूटेबल USB बनाने के बाद भी सिस्टम बूट नहीं हो सकता। अंतिम उपाय के रूप में, आप unetbootin (Linux) का उपयोग कर सकते हैं।
