@@ -1,5 +1,5 @@
 # Debian Gaming - Guide
-[![pl](https://img.shields.io/badge/lang-en-red.svg)](README.pl.md)
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](README.pl.md)
 1. Download the disk image: https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-13.0.0-amd64-netinst.iso
 2. Create a bootable USB drive. You can use applications like Rufus or Etcher. On some older platforms, even after creating a bootable USB with one of these applications, the system may still fail to boot. As a last resort, you can use unetbootin (Linux).
 3. During installation, the installer will ask for the root password - LEAVE THIS FIELD EMPTY!
