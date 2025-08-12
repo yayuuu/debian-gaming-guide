@@ -1,4 +1,13 @@
 # Игры на Debian - Руководство
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](README.pl.md)
+[![zh](https://img.shields.io/badge/lang-zh-red.svg)](README.zh.md)
+[![es](https://img.shields.io/badge/lang-es-red.svg)](README.es.md)
+[![hi](https://img.shields.io/badge/lang-hi-red.svg)](README.hi.md)
+[![pt](https://img.shields.io/badge/lang-pt-red.svg)](README.pt.md)
+[![de](https://img.shields.io/badge/lang-de-red.svg)](README.de.md)
+[![fr](https://img.shields.io/badge/lang-fr-red.svg)](README.fr.md)
+[![ja](https://img.shields.io/badge/lang-ja-red.svg)](README.ja.md)
 ## Шаг 1 - Установка
 1. Скачайте образ диска: https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-13.0.0-amd64-netinst.iso
 2. Создайте загрузочную USB-флешку. Вы можете использовать приложения, такие как Rufus или Etcher. На некоторых старых платформах, даже после создания загрузочной флешки с помощью этих приложений, система может не загружаться. В качестве последнего средства можно использовать unetbootin (Linux).
