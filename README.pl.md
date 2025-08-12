@@ -1,5 +1,5 @@
 # Debian Gaming - poradnik
-[![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
 ## Krok 1 - instalacja
 1. Pobierz obraz dysku: https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-13.0.0-amd64-netinst.iso
 2. Utwórz bootowalny dysk USB. Możesz użyć takich aplikacji jak Rufus lub Etcher. W przypadku niektórych starszych platform może się zdarzyć, że po utworzeniu bootowalnego USB jedną z tych aplikacji, nadal nie da zbootować systemu. Jako ostatnią deskę ratunku można użyć unetbootin (linux).
