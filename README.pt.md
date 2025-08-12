@@ -3,7 +3,7 @@
 [![pl](https://img.shields.io/badge/lang-pl-red.svg)](README.pl.md)
 [![zh](https://img.shields.io/badge/lang-zh-red.svg)](README.zh.md)
 [![es](https://img.shields.io/badge/lang-es-red.svg)](README.es.md)
-[![pt](https://img.shields.io/badge/lang-pt-red.svg)](README.pt.md)
+[![hi](https://img.shields.io/badge/lang-hi-red.svg)](README.hi.md)
 [![ru](https://img.shields.io/badge/lang-ru-red.svg)](README.ru.md)
 [![de](https://img.shields.io/badge/lang-de-red.svg)](README.de.md)
 [![fr](https://img.shields.io/badge/lang-fr-red.svg)](README.fr.md)
