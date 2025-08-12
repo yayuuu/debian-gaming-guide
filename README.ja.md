@@ -1,4 +1,13 @@
 # Debian ゲーミング - ガイド
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](README.pl.md)
+[![zh](https://img.shields.io/badge/lang-zh-red.svg)](README.zh.md)
+[![es](https://img.shields.io/badge/lang-es-red.svg)](README.es.md)
+[![hi](https://img.shields.io/badge/lang-hi-red.svg)](README.hi.md)
+[![pt](https://img.shields.io/badge/lang-pt-red.svg)](README.pt.md)
+[![ru](https://img.shields.io/badge/lang-ru-red.svg)](README.ru.md)
+[![de](https://img.shields.io/badge/lang-de-red.svg)](README.de.md)
+[![fr](https://img.shields.io/badge/lang-fr-red.svg)](README.fr.md)
 ## ステップ 1 - インストール
 1. ディスクイメージをダウンロード: https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-13.0.0-amd64-netinst.iso
 2. ブータブルUSBドライブを作成します。Rufus や Etcher などのアプリケーションを使用できます。一部の古いプラットフォームでは、これらのアプリでブータブルUSBを作成してもシステムが起動しない場合があります。最後の手段として unetbootin (Linux) を使用できます。
