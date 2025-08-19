@@ -11,9 +11,11 @@ Otwórz terminal i wykonaj następujące polecenia:
 ```
 wget https://developer.download.nvidia.com/compute/cuda/repos/debian12/x86_64/cuda-keyring_1.1-1_all.deb
 sudo dpkg -i cuda-keyring_1.1-1_all.deb
-sudo apt-get update
-sudo apt-get install -y nvidia-open #dla kart z serii RTX2000 lub nowsze
-sudo apt-get install -y cuda-drivers #dla kart z serii GTX1000 lub starsze
+add-apt-repository contrib
+sudo apt update
+sudo apt install linux-headers-amd64
+sudo apt install -y nvidia-open #dla kart z serii RTX2000 lub nowsze
+sudo apt install -y cuda-drivers #dla kart z serii GTX1000 lub starsze
 ```
 
 ## Krok 3 - Flatpak
@@ -51,3 +53,9 @@ Podobnie wygląda aktualizacja flatpak lub pipewire, jako nazwę pakieto nalezy 
 
 Uwaga! Na dzień dzisiejszy (11.08.2025) nie ma jeszcze nowszych wersji tych pakietów w backports. Listę dostępnych do aktualizacji pakietów można znaleźć tutaj: https://packages.debian.org/trixie-backports/
 
+## Krok 5 - Instalacja steam
+```
+add-apt-repository contrib #jeśli nie zostało dodane wcześniej, przy okazji instalacji sterowników Nvidia
+sudo apt update
+sudo apt install steam-installer
+```
