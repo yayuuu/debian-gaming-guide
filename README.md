@@ -7,7 +7,9 @@
 5. Wybierając jakie pakiety Debian ma zainstalować na początku, wybierz swoje ulubione środowisko graficzne. Sugeruję aby było to KDE Plasma, jeśli jednak wiesz co robisz, możesz wybrać inne.
 
 ## Krok 2 - sterowniki Nvidia (możesz pominąć, jeśli nie posiadasz karty Nvidia)
-Otwórz terminal i wykonaj następujące polecenia:
+Upewnij się, że masz **wyłączony** Secure Boot w biosie.
+
+Otwórz terminal i wykonaj następujące polecenia (będąc w katalogu, do którego masz prawa zapisu, np w katalogu domowym):
 ```
 wget https://developer.download.nvidia.com/compute/cuda/repos/debian12/x86_64/cuda-keyring_1.1-1_all.deb
 sudo dpkg -i cuda-keyring_1.1-1_all.deb
