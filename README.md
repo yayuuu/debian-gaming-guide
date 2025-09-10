@@ -57,7 +57,7 @@ Uwaga! Na dzień dzisiejszy (11.08.2025) nie ma jeszcze nowszych wersji tych pak
 
 ## Krok 5 - Instalacja steam
 ```
-add-apt-repository contrib #jeśli nie zostało dodane wcześniej, przy okazji instalacji sterowników Nvidia
+sudo add-apt-repository contrib #jeśli nie zostało dodane wcześniej, przy okazji instalacji sterowników Nvidia
 sudo dpkg --add-architecture i386
 sudo apt update
 sudo apt install steam-installer
