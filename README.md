@@ -13,7 +13,7 @@ Otwórz terminal i wykonaj następujące polecenia (będąc w katalogu, do któr
 ```
 wget https://developer.download.nvidia.com/compute/cuda/repos/debian12/x86_64/cuda-keyring_1.1-1_all.deb
 sudo dpkg -i cuda-keyring_1.1-1_all.deb
-sudo add-apt-repository contrib
+sudo sed -i 's/Components: .*/& contrib/' /etc/apt/sources.list.d/debian.sources
 sudo apt update
 sudo apt install linux-headers-amd64
 sudo apt install -y nvidia-open #dla kart z serii RTX2000 lub nowsze
@@ -57,7 +57,7 @@ Uwaga! Na dzień dzisiejszy (11.08.2025) nie ma jeszcze nowszych wersji tych pak
 
 ## Krok 5 - Instalacja steam
 ```
-sudo add-apt-repository contrib #jeśli nie zostało dodane wcześniej, przy okazji instalacji sterowników Nvidia
+sudo sed -i 's/Components: .*/& contrib/' /etc/apt/sources.list.d/debian.sources #jeśli nie zostało dodane wcześniej, przy okazji instalacji sterowników Nvidia
 sudo dpkg --add-architecture i386
 sudo apt update
 sudo apt install steam-installer
