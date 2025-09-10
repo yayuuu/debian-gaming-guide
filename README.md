@@ -13,7 +13,7 @@ Otwórz terminal i wykonaj następujące polecenia (będąc w katalogu, do któr
 ```
 wget https://developer.download.nvidia.com/compute/cuda/repos/debian12/x86_64/cuda-keyring_1.1-1_all.deb
 sudo dpkg -i cuda-keyring_1.1-1_all.deb
-add-apt-repository contrib
+sudo add-apt-repository contrib
 sudo apt update
 sudo apt install linux-headers-amd64
 sudo apt install -y nvidia-open #dla kart z serii RTX2000 lub nowsze
