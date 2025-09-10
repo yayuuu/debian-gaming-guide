@@ -62,3 +62,11 @@ sudo dpkg --add-architecture i386
 sudo apt update
 sudo apt install steam-installer
 ```
+
+## Krok 6 - HDR
+
+proton-cachyos lub proton-EM
+
+https://github.com/Zamundaaa/VK_hdr_layer
+
+DXVK_HDR=1 DISPLAY= POTON_USE_WAYLAND=1 ENABLE_HDR_WSI=1 %command%
